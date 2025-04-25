@@ -57,6 +57,20 @@ The Power BI dashboard provides an interactive and comprehensive view of the ban
 
 The dashboard also includes filters and slicers for attributes like loan grade, borrower state, and loan purpose, providing flexibility to view insights for specific segments.
 
+---
+
+## 📊 Dashboard Preview
+
+### Dashboard Summary
+![Dashboard Summary](https://github.com/krb647/Bank-Loan-Analysis/blob/main/dashboard_summary.png?raw=true)
+
+### Dashboard Overview
+![Dashboard Overview](https://github.com/krb647/Bank-Loan-Analysis/blob/main/dashboard_overview.png?raw=true)
+
+### Dashboard Details
+![Dashboard Details](https://github.com/krb647/Bank-Loan-Analysis/blob/main/dashboard_details.png?raw=true)
+
+
 ## Conclusion
 
 This Bank Loan Analysis project provides a clear view of lending patterns and loan quality. By combining SQL and Power BI, the analysis highlights essential metrics and trends, offering insights that can support data-driven decisions for improving loan portfolio performance and identifying key factors in borrower behavior.
