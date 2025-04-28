@@ -1,4 +1,4 @@
-# Bank Loan Analysis Project
+# Bank Loan Analysis 
 
 This project conducts a comprehensive analysis of bank loan data by integrating SQL querying with Power BI for visualization. The analysis focuses on loan application trends, funding insights, loan statuses, and other key metrics that help assess lending patterns and loan quality.
 
